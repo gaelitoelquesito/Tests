@@ -1,0 +1,8 @@
+main: com.gmail.gaelitoelquesito.RandomBiome
+name: RandomBiome
+version: 1.0
+author: gaelitoelquesito
+depend: [FastAsyncWorldEdit]
+commands:
+    randombiome:
+        description: Main command
